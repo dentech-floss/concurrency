@@ -1,6 +1,6 @@
 # concurrency
 
-Utils for concurrent programming/tasks...
+Gathered utilities to simplify concurrent programming, like for doing x number of request/response invocations in parallell.
 
 ## Install
 
